@@ -1,7 +1,7 @@
 {
   "name": "encourage",
   "main": "./lib/encourage.js",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Let Atom encourage you while you work",
   "keywords": [],
   "repository": "https://github.com/haacked/encourage-atom",
