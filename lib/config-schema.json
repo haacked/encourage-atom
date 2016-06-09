@@ -1,0 +1,29 @@
+{
+  "encouragementList": {
+    "title": "Encouragement List",
+    "description": "The list from which encouragements will be selected.",
+    "type": "array",
+    "default": [
+      "Nice Job! 🎇",
+      "Way to go! ✨",
+      "Wow, nice change! 💗",
+      "So good! 💖",
+      "Bravo! 👏",
+      "You rock! 🚀",
+      "Well done! 🎉",
+      "I see what you did there! 🙏",
+      "Genius work! 🍩",
+      "Thumbs up! 👍",
+      "Coding win! 🍸",
+      "FTW! ⚡️",
+      "Yep! 🙆",
+      "Nnnnnnnailed it! ✌",
+      "You\"re good enough! 😎",
+      "You\"re smart enough! 💫",
+      "People like you! 💞"
+    ],
+    "items": {
+      "type": "string"
+    }
+  }
+}
