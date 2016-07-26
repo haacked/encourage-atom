@@ -25,5 +25,11 @@
     "items": {
       "type": "string"
     }
+  },
+  "displayDurationMs": {
+    "title": "Display Duration in Milliseconds",
+    "description": "How long to display the encouragement before it fades out",
+    "type": "integer",
+    "default": 1500
   }
 }
